@@ -8,4 +8,8 @@ https://colab.research.google.com/drive/1qI-mlruopBCFO6MG7dmBINDQsk8hvGJA?usp=sh
 Watch this instruction video to understand how to use the above notebook :
 https://youtu.be/19qJHkBB8pY
 
+Before :
+![](https://media.giphy.com/media/Rz6PAjnmcGveEEIiAP/giphy.gif)
+
+After Processing using the notebook :
 ![](https://media.giphy.com/media/SvtNkIgUwASdTzsMq8/giphy.gif)
