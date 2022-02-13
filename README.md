@@ -7,3 +7,5 @@ https://colab.research.google.com/drive/1qI-mlruopBCFO6MG7dmBINDQsk8hvGJA?usp=sh
 
 Watch this instruction video to understand how to use the above notebook :
 https://youtu.be/19qJHkBB8pY
+
+![](https://media.giphy.com/media/SvtNkIgUwASdTzsMq8/giphy.gif)
