@@ -1,7 +1,7 @@
 # Real-ESRGAN-Video-Batch-Process
 Upscale any number of videos using this colab notebook!
 
-## IMPORTANT : Watch the Youtube video to understand how to use the colab notebook properly!
+## IMPORTANT : Watch the Youtube video to learn how to use the colab notebook!
 
 
 1. [Youtube Video Instruction](https://www.youtube.com/watch?v=19qJHkBB8pY) for Real-ESRGAN Video Batch Processing <a href="https://www.youtube.com/watch?v=19qJHkBB8pY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="google colab logo"></a>.
